@@ -15,3 +15,7 @@ Tested on: Windows 11
 -> you'll see that the svelte.config.js has been changed, and the existing options have been thrown away.
 
 Additionally, it creates the `vite.config.ts` file, even though there already is a `vite.config.js`
+
+---
+
+Relevant issue: https://github.com/HoudiniGraphql/houdini/issues/782
